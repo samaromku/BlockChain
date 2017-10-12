@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlockChain</string>
+    <string name="time">Время</string>
+    <string name="actual_price">Текущая цена $</string>
+</resources>
